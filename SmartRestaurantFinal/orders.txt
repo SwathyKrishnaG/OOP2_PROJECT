@@ -1,0 +1,1 @@
+Customer: John, Table: 1, Items: [MenuItem[name=Pizza, price=12.5, vegetarian=false]]
